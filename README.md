@@ -1,11 +1,8 @@
-- 👋 Yo!, It's Lite (Just a username though)
-- 👍 Good with Javascript and Node.js
-- 🌱 Currently learning React.js  
+- 👋 Yo!, It's Lite !
+- 👍 Javascript and Node.js
+- 🌱 React.js ( beginner )
 - 🙌 Looking to collaborate on new projects to build up experience
-- 🤳 You can reach me on Instagram @lite_745
-- 😎 Love Valorant, Anime and Football
+- 🤳 You can reach me on LinkedIn "https://www.linkedin.com/in/vedant-chaudhari-99a9021a8"
+- 😎 Love Valorant, Anime and Football.
 
-<!---
-lite-4846/lite-4846 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
