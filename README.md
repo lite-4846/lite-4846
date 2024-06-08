@@ -1,4 +1,4 @@
-- 👋 Yo!, It's Lite !
+- 👋 Hello!, It's Lite ! [Vedant Chaudhari]
 - 👍 Javascript and Node.js
 - 🌱 React.js
 - 🙌 Looking to collaborate on new projects to build up experience
