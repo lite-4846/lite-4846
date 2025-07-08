@@ -49,7 +49,7 @@ A campground review platform with **Express.js, Passport.js, and Mapbox API**.
 ---
 
 ## 📣 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/vedantchaudhari](https://linkedin.com/in/chvedant)
+- **LinkedIn:** [linkedin.com/in/chvedant](https://linkedin.com/in/chvedant)
 - **Twitter/X:** [twitter.com/vedantcodes](https://x.com/lite_745)
 - **Email:** lite.th745@gmail.com
 
